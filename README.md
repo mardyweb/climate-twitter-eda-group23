@@ -4,8 +4,6 @@ CS334 Course Project, Checkpoint 3 · Group 23: Maryam, Izza, Izzah, Noor
  
 Data cleaning and exploratory analysis of 15.8 million climate-related tweets (2006–2019), looking at how the volume, topics, tone, stance and geography of the climate conversation changed over time, and whether unusually hot or cold months show up in what people tweet.
  
-**Blog post:** [Medium link]
- 
 ## Dataset
  
 The Climate Change Twitter Dataset (Effrosynidis et al., 2022), available on [Kaggle](https://www.kaggle.com/datasets/deffro/the-climate-change-twitter-dataset). It is not included in this repo because of its size.
